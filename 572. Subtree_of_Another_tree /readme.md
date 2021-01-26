@@ -32,12 +32,11 @@ Given tree t:
 Return false.
 
 
-NOTES
+### NOTES
 
 
-Where:
+n- It's the size of large tree.
+m- It's the size of small tree.
 
-n
-It's the size of large tree.
-m
-It's the size of small tree.
+
+Depth-first search (DFS) or Breadth-first search (BFS) is an algorithm for traversing or searching tree data structures. In DFS, start from the root and traverse the left subtree until it's null and then go to the right subtree. Whereas in BFS, traversing is done in level order.
